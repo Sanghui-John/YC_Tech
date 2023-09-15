@@ -1,3 +1,9 @@
 # YC_Tech
 Yonsei University Codepresso Tech Academy
-Web Programming, Backend
+<br>Backend Web Programming
+
+<p>
+  <b>REST API 설계</b>
+  <b>Controller 작성 & 설계</b> 
+</p>
+
